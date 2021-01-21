@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WIKIFoods</string>
+
+    <string name="foods_name">Nama Makanan</string>
+    <string name="favorite">Favorite</string>
+    <string name="detail">Deskripsi</string>
+    <string name="sajian">Sajian</string>
+    <string name="asal">Asal</string>
+    <string name="rank">Rank</string>
+    <string name="logo_makanan">logo makanan</string>
+</resources>
